@@ -70,6 +70,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 -  [Python For Everybody](https://www.coursera.org/specializations/python)
 -  [Write Better Python Functions](https://jeffknupp.com/)
 -  [Learning Python: From Zero to Hero](https://medium.freecodecamp.org/learning-python-from-zero-to-hero-120ea540b567)
+-  [Introduction to Python: Absolute Beginner](https://www.edx.org/course/introduction-to-python-absolute-beginner-1) 
 
 ## 1.2 Machine Learning :robot:
 
