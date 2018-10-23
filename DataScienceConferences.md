@@ -6,7 +6,7 @@
   - [Topics Covered] - Topics covered at the conference also include machine learning, neural networks, social networks, graph analysis, text analysis, natural language processing, data visualization, Big data tools and Hadoop-based frameworks.
  	
 	Location |	London           |  	San Fransisco   |	Boston
-	Date     |	Sept 19-22, 2018 |	Oct 31- Nov 3, 2018 |	April 30 – May 3, 2019
+	Date     |	Sept 19-22, 2018 |	Oct 31- Nov 3, 2018 |	April 30 â€“ May 3, 2019
 	Register: https://www.odsc.com	
 
 2. Predictive Analytics World
@@ -120,5 +120,12 @@
 	Location | Montreal, Canada
 	Date	 | December 3, 2018 to December 8, 2018
 	Register : https://nips.cc/
+	
+18. Deep Learning Summit Toronto
+	- Bridging the gap between the latest technological research advancements and real world applications in business and society
+
+	Location |Toronto	
+	Date     |25 - 26 OCTOBER 2018
+	Register: https://www.re-work.co/events/deep-learning-summit-toronto-canada-2018#registration_anchor
 
 	Good Hunting !!
